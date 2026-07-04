@@ -11,4 +11,4 @@ Boxes can be stacked (two small on one big possible).
 ## Printing
 No special recommendations.
 
-Printed with .2 mm layer height and tree supports.
+Printed with .2 mm layer height and tree supports using PLA.
